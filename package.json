@@ -1,0 +1,21 @@
+{
+  "name": "express-sprizzami-backend",
+  "version": "1.0.0",
+  "description": "Sprizzami's backend",
+  "main": "app.js",
+  "repository": "https://github.com/render-examples/express-hello-world",
+  "author": "Render Developers",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
